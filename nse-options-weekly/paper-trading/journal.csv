@@ -1,0 +1,2 @@
+date,time,index,signal,score,dte,symbol,entry,sl,t1,t2,exit,exit_reason,exit_time,gross_pnl,costs,net_pnl,notes
+2026-10-10,,NIFTY,NO_TRADE,4,6,,,,,,,,,,,,"Market closed (Sat). Bias bearish (weekly/daily down since Aug 3 high 24774); Fri bounce 22232->22520 is counter-trend. Chain: CE OI wall 22700-23000, PE OI 22500/22300/22200. Plan armed for Mon 12 Oct: PUT only if 5m close <22445 after 9:30; 22200PE ref 65.9 (stale, no depth)"

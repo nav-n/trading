@@ -1,0 +1,1 @@
+date,time,index,expiry,dte,spot,vix,short_call,long_call,short_put,long_put,credit_pts,credit_pct_spot,max_profit_rs,max_loss_rs,margin_rs,exit_date,exit_reason,exit_spot,gross_pnl,costs,net_pnl,notes

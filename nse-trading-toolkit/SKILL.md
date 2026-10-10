@@ -78,6 +78,7 @@ Follow this sequence for a full analysis. Skip steps not relevant to the user's 
 | "Should I trail my stop?" | trailing-stops | — |
 | "Is this trade worth taking?" | risk-reward-ratio | position-sizing |
 | "Weekly vs daily trend?" | multi-timeframe-analysis | technical-analysis |
+| "NIFTY call or put?" / weekly options | nse-options-weekly | multi-timeframe-analysis, position-sizing |
 
 ## Output Format
 

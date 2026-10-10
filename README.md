@@ -28,6 +28,7 @@
 | 7 | **multi-timeframe-analysis** | 3-screen method (weekly/daily/hourly), confluence scoring system |
 | 8 | **rsi-divergence** | Regular + hidden divergence detection, confirmation rules, entry strategies |
 | 9 | **fibonacci-trading** | Retracement entry zones, extension targets, confluence zone identification |
+| 10 | **nse-options-weekly** | Weekly index options (NIFTY/BANKNIFTY etc.): CE/PE signal, strike, entry/exit timing, Zerodha MCP data, confirmed order drafts |
 
 ## Installation
 
